@@ -7,7 +7,7 @@ url: https://FanGShiYuu.github.io
 # Owner/author information
 owner:
   name: Shiyu Fang
-  avatar: hanlin.jpg
+  avatar: shiyufang.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 2111219@tongji.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -17,7 +17,7 @@ owner:
   # linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  researchgate: https://www.researchgate.net/profile/Shiyu-Fang-4
   # zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -48,6 +48,8 @@ links:
     url: /hobbies/
   # - title: Blogs
   #   url: /blogs/
+  - title: Latest work
+    url: /Latest work/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
