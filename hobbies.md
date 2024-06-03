@@ -9,7 +9,7 @@ title: Hobbies
 ## Basketball
 
 <div class="second">
-<img src="/images/basketball1.jpg">
+<img src="/images/basketball1.jpg style="width: 200px; height: 150px;"">
 <img src="/images/basketball2.jpg">
 </div>
 <br>Basketball, to me, is an immersive experience that engages my entire being. Each shot, each dribble, presents both challenge and joy. On the court, I find release from stress and worries, fully absorbed in the game, basking in its calming effect.
@@ -20,9 +20,11 @@ title: Hobbies
 
 ## Frisbee
 
-<div class="third">
+<div class="second">
 <img src="/images/Frisbee1.jpg">
 <img src="/images/Frisbee2.jpg">
 </div>
-<br>There must be **something truly magical** about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+<br>I love playing frisbee because it's an energetic and enjoyable outdoor activity. Every time I throw the frisbee and watch it soar through the air, I feel a sense of freedom and exhilaration. In competitions, I challenge myself, enhancing my focus and reflexes while maintaining a healthy body and positive mindset. Frisbee is more than just a sport; it's a lifestyle that allows me to embrace life and nature fully.
+
+<br>We clinched the championship in the first Jilin University Ultimate Frisbee League. Despite our team members not having played frisbee for a particularly long time, we gave our all in every match. Eventually, we fought our way back from the losers' bracket to the finals and defeated the Materials Science College to claim the title. Throughout this journey, I shared joyful moments with friends and forged deeper friendships.
 
