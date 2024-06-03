@@ -9,8 +9,8 @@ title: Hobbies
 ## Basketball
 
 <div class="second">
-<img src="/images/basketball1.jpg" style="width: 200px; height: 150px;">
-<img src="/images/basketball2.jpg">
+<img src="/images/basketball1.jpg" style="width: 2000px; height: 1500px;">
+<img src="/images/basketball2.jpg" style="width: 1500px; height: 1000px;">
 </div>
 <br>Basketball, to me, is an immersive experience that engages my entire being. Each shot, each dribble, presents both challenge and joy. On the court, I find release from stress and worries, fully absorbed in the game, basking in its calming effect.
 
