@@ -9,8 +9,8 @@ title: Hobbies
 ## Basketball
 
 <div>
-<img src="/images/basketball1.jpg" style="width: 800px; height: 450px;">
-<img src="/images/basketball2.jpg" style="width: 800px; height: 450px;">
+<img src="/images/basketball1.jpg" style="width: 800px; height: 400px;">
+<img src="/images/basketball2.jpg" style="width: 800px; height: 400px;">
 </div>
 
 <br>Basketball, to me, is an immersive experience that engages my entire being. Each shot, each dribble, presents both challenge and joy. On the court, I find release from stress and worries, fully absorbed in the game, basking in its calming effect.
@@ -19,12 +19,13 @@ title: Hobbies
 
 <br>Over the past three years, my teammates and I have clinched the championship of the Tongji University School of Transportation Engineering basketball tournament three times in a row. Through this journey, I've evolved into a court leader, guiding our progression and growth. Even as friends graduate and move on, the sweat we shed on the court will forever moisten the ground, and these cherished memories will remain etched in our hearts.
 
+---
 
 ## Frisbee
 
 <div>
-  <img src="/images/Frisbee1.jpg" style="width: 800px; height: 450px;">
-  <img src="/images/Frisbee2.jpg" style="width: 800px; height: 450px;">
+  <img src="/images/Frisbee1.jpg" style="width: 800px; height: 350px;">
+  <img src="/images/Frisbee2.jpg" style="width: 800px; height: 350px;">
 </div>
 
 <br>I love playing frisbee because it's an energetic and enjoyable outdoor activity. Every time I throw the frisbee and watch it soar through the air, I feel a sense of freedom and exhilaration. In competitions, I challenge myself, enhancing my focus and reflexes while maintaining a healthy body and positive mindset. Frisbee is more than just a sport; it's a lifestyle that allows me to embrace life and nature fully.
