@@ -6,11 +6,13 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Shiyu Fang** (English: /ʃiː juː fæŋ/ SHEE-YOO FANG; Chinese: **房世玉**).
 
-I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+Currently, I am pursuing a Ph.D. degree in the Department of Traffic Engineering at Tongji University, Shanghai, China, under the supervision of [Prof. Jian Sun](https://www.researchgate.net/profile/Jian-Sun-56) and [Prof. Peng Hang](https://www.researchgate.net/profile/Peng-Hang-3). My research interests lie in the intersection of decision making and motion planning for autonomous vehicles, game theory, intelligent transportation systems, and human behavior under interation.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *2111219[at]tongji[dot]edu[dot]cn*
+
+---
 
 ## Academic Background
 
@@ -21,26 +23,18 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Decision Making for Autonomous Vehicles
+- Intelligent Transportation Systems
+- Human Behavior under Interation
+- Game Theory
 
 ---
 
 ## News and Updates
+- **May 2024：**[Our work](https://ieeexplore.ieee.org/document/10529605) has been accepted to IEEE Transactions on Intelligent Vehicles(IF=8.2). 🎉
+- Jan 2024：**Our work has been accepted to 103th TRB Annual Meeting 2024 as a poster paper. See you in USA!
+- Dec 2023：[Our work](https://ieeexplore.ieee.org/document/10397236) has been accepted to 2023 7th CAA International Conference on Vehicular Control and Intelligence (CVCI) as oral presentation paper. See you in Changsha China!
+- JUun 2023：[Our work](https://ieeexplore.ieee.org/document/10186564) has been accepted to 2023 IEEE Intelligent Vehicles Symposium (IV) as oral presentation paper. See you in USA!
 
-- **May 2024：**My undergraduate thesis won the Best Project Award (Top 1/300) 🎉
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
 
 
