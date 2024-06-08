@@ -14,8 +14,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2021 - :** Tongji University (BSc, EECS)
-- **Sep 2017 - June 2021:** Jilin University (BEng, EECS)
+- **Sep 2021 - :** Tongji University 
+- **Sep 2017 - June 2021:** Jilin University 
 
 ---
 
