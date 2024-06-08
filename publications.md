@@ -9,7 +9,7 @@ title: Publications
 ---
 
 <div>
-  <img src="/images/NCLGame.png" style="width: 800px; height: 450px;">
+  <img src="/images/NCLGame.png" style="width: 800px; height: 350px;">
 </div>
 
 - **Shiyu Fang**, Peng Hang*, Chongfeng Wei, Yang Xing, Jian Sun, [Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach](https://ieeexplore.ieee.org/document/10529605), IEEE Transactions on Intelligent Vehicles(IF=8.2), 2024.
@@ -28,7 +28,9 @@ title: Publications
 
 ## Manuscript
 
-<img src="/images/NCLGame.png" alt="NCLGame">
+<div>
+  <img src="/images/PotentialGame.png" style="width: 800px; height: 350px;">
+</div>
 - **Shiyu Fang**, Donghao Zhou, Peng Hang, Jianqiang Wang, Jian Sun, [A Potential Game-Based Framework for Cooperative Driving at Mixed Un-Signalized Intersections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501464). 
   <br>
 
