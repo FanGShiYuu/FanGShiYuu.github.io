@@ -8,9 +8,9 @@ title: Hobbies
 
 ## Basketball
 
-<div class="second">
-<img src="/images/basketball1.jpg" style="width: 800px; height: 450px;">
-<img src="/images/basketball2.jpg" style="width: 800px; height: 450px;">
+<div class="third">
+  <img src="/images/basketball1.jpg" alt="Image 1">
+  <img src="/images/basketball2.jpg" alt="Image 2">
 </div>
 <br>Basketball, to me, is an immersive experience that engages my entire being. Each shot, each dribble, presents both challenge and joy. On the court, I find release from stress and worries, fully absorbed in the game, basking in its calming effect.
 
@@ -18,6 +18,13 @@ title: Hobbies
 
 <br>Over the past three years, my teammates and I have clinched the championship of the Tongji University School of Transportation Engineering basketball tournament three times in a row. Through this journey, I've evolved into a court leader, guiding our progression and growth. Even as friends graduate and move on, the sweat we shed on the court will forever moisten the ground, and these cherished memories will remain etched in our hearts.
 
+<div class="second">
+  <img src="/images/basketball1.jpg" alt="Image 1">
+  <img src="/images/basketball2.jpg" alt="Image 2">
+</div>
+
+<img src="/images/basketball1.jpg" style="width: 800px; height: 450px;">
+<img src="/images/basketball2.jpg" style="width: 800px; height: 450px;">
 ## Frisbee
 
 <div class="second">
