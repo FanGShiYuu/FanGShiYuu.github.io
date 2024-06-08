@@ -418,26 +418,34 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 }
 
 
-.content-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  margin: 20px 0; /* 可选的外边距 */
+.split-container {
+  margin: 0 auto;
+  width: 100%;
+  *zoom: 1;
 }
 
-.image-half {
-  flex: 1; /* 占据一半的宽度 */
+.split-container:before, .split-container:after {
+  display: table;
+  content: "";
 }
 
-.image-half img {
+.split-container:after {
+  clear: both;
+}
+
+.left-half, .right-half {
+  display: inline;
+  float: left;
+  width: 50%; /* 每部分占据一半的宽度 */
+}
+
+.left-half img {
   width: 100%;
   height: auto;
   border: 1px solid #ddd; /* 可选的边框样式 */
   border-radius: 5px; /* 可选的圆角样式 */
 }
 
-.text-half {
-  flex: 1; /* 占据一半的宽度 */
+.right-half {
   padding: 20px; /* 可选的内边距 */
 }
