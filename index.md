@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="shiyufang.jpg" class="floatpic" width="360" height="480">
 
 Here is **Shiyu Fang** (English: /ʃiː juː fæŋ/ SHEE-YOO FANG; Chinese: **房世玉**).
 
