@@ -31,6 +31,7 @@ title: Publications
 
 ## Manuscript
 
+<img src="/images/NCLGame.png" alt="NCLGame">
 - **Shiyu Fang**, Donghao Zhou, Peng Hang, Jianqiang Wang, Jian Sun, [A Potential Game-Based Framework for Cooperative Driving at Mixed Un-Signalized Intersections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501464). 
   <br>
 
