@@ -29,7 +29,7 @@ title: Publications
 ## Manuscript
 
 <div>
-  <img src="/images/PotentialGame.png" style="width: 800px; height: 350px;">
+  <img src="/images/PotentialGame.png" style="width: 800px; height: 400px;">
 </div>
 - **Shiyu Fang**, Donghao Zhou, Peng Hang, Jianqiang Wang, Jian Sun, [A Potential Game-Based Framework for Cooperative Driving at Mixed Un-Signalized Intersections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501464). 
   <br>
