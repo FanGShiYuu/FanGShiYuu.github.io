@@ -8,8 +8,15 @@ title: Publications
 
 ---
 
-- **Shiyu Fang**, Peng Hang*, Chongfeng Wei, Yang Xing, Jian Sun, [Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach](https://ieeexplore.ieee.org/document/10529605), IEEE Transactions on Intelligent Vehicles(IF=8.2), 2024.
-  
+<div class="split-container">
+  <div class="left-half">
+    <img src="/images/image.jpg" alt="Image Description">
+  </div>
+  <div class="right-half">
+    <p>**Shiyu Fang**, Peng Hang*, Chongfeng Wei, Yang Xing, Jian Sun, [Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach](https://ieeexplore.ieee.org/document/10529605), IEEE Transactions on Intelligent Vehicles(IF=8.2), 2024.。Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  </div>
+</div>
+
 - Xiaocong Zhao,**Shiyu Fang**,Zirui Li,Jian Sun. [Extraction and Application of Key Utility Term for Social Driving Interaction](https://www.qichegongcheng.com/CN/10.19562/j.chinasae.qcgc.2024.02.005). Automotive Engineering, 2024, 46(2): 230-240. 
   <br>
   
