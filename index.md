@@ -8,7 +8,7 @@ layout: page
 
 Here is **Shiyu Fang** (English: /ʃiː juː fæŋ/ SHEE-YOO FANG; Chinese: **房世玉**).
 
-Currently, I am pursuing a Ph.D. degree in the Department of Traffic Engineering at Tongji University, Shanghai, China, under the supervision of [Prof. Jian Sun](https://www.researchgate.net/profile/Jian-Sun-56) and [Prof. Peng Hang](https://www.researchgate.net/profile/Peng-Hang-3). My research interests lie in the intersection of decision making and motion planning for autonomous vehicles, game theory, intelligent transportation systems, and human behavior under interation.
+Currently, I am pursuing a Ph.D. degree in the Department of Traffic Engineering at Tongji University, Shanghai, China, under the supervision of [Prof. Jian Sun](https://www.researchgate.net/profile/Jian-Sun-56) and [Prof. Peng Hang](https://www.researchgate.net/profile/Peng-Hang-3). My research interests lie in the intersection of decision-making and motion planning for autonomous vehicles, game theory, intelligent transportation systems, and human behavior under interaction.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *2111219[at]tongji[dot]edu[dot]cn*
 
@@ -25,7 +25,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - Decision Making for Autonomous Vehicles
 - Intelligent Transportation Systems
-- Human Behavior under Interation
+- Human Behavior under Interaction
 - Game Theory
 
 ---
