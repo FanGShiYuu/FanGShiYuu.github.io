@@ -24,6 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Interests
 
 - Decision Making for Autonomous Vehicles
+- Cooperative Driving
 - Intelligent Transportation Systems
 - Human Behavior under Interaction
 - Game Theory
