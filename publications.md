@@ -16,15 +16,20 @@ title: Publications
 - [Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach](https://ieeexplore.ieee.org/document/10529605).
 **Shiyu Fang**, Peng Hang*, Chongfeng Wei, Yang Xing, Jian Sun. IEEE Transactions on Intelligent Vehicles(IF=8.2), 2024.
   
+----
 
 - [Extraction and Application of Key Utility Term for Social Driving Interaction](https://www.qichegongcheng.com/CN/10.19562/j.chinasae.qcgc.2024.02.005). 
 Xiaocong Zhao,**Shiyu Fang**,Zirui Li,Jian Sun. Automotive Engineering, 2024, 46(2): 230-240.
-  <br>
-  
+  <be>
+
+---
+
 ## Conference 
 
 - [A real-time cooperative driving framework for un-signalized intersection](https://ieeexplore.ieee.org/document/10397236). 
 **Shiyu Fang**, Peng Hang*, and Jian Sun. 7th CAA International Conference on Vehicular Control and Intelligence (CVCI 2023), Changsha, China, 2023.
+
+----
 
 - [Towards Active Motion Planning in Interactive Driving Scenarios: A Generic Utility Term of Interaction Activeness](https://ieeexplore.ieee.org/document/10186564),
 Xiaocong Zhao, Meng Wang, **Shiyu Fang**, Jian Sun. 2023 IEEE Intelligent Vehicles Symposium (IV), Anchorage, AK, USA.
