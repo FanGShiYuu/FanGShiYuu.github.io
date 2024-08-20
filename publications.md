@@ -6,9 +6,6 @@ title: Publications
 
 ## Journal
 
----
-
-
 <div>
   <img src="/images/NCLGame.png" style="width: 800px; height: 300px;">
 </div>
