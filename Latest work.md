@@ -18,7 +18,7 @@ title: Latest work
 ### Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic
 
 <div>
-<img src="/images/RtR.png" style="width: 800px; height: 150px;">
+<img src="/images/RtR.png" style="width: 800px; height: 350px;">
 </div>
 
 ---
