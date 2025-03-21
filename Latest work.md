@@ -6,26 +6,26 @@ title: Latest work
 
 ## Latest Work1: 
 
-### Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework
+### Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions
 
 <div>
-<img src="/images/latest-CoDrivingLLM.png" style="width: 800px; height: 300px;">
+<img src="/images/Actor-Reasoner.png" style="width: 800px; height: 300px;">
 </div>
 
 
 ## Latest Work2:
 
-### From simulation to Hardware/Vehicle in the loop test
+### Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic
 
 <div>
-<img src="/images/latest1.png" style="width: 800px; height: 150px;">
+<img src="/images/RtR.png" style="width: 800px; height: 150px;">
 </div>
 
 ---
 
 ## Latest Work3: 
 
-### A distributed decision-making framework integrates individual and system perspective
+### A Distributed Decision-making Framework Integrates Individual and System Perspective Utility
 
 <div>
 <img src="/images/latest2.png" style="width: 800px; height: 300px;">
