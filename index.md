@@ -32,7 +32,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## News and Updates
-- **May 2024：** **[Our work: Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach.](https://ieeexplore.ieee.org/document/10529605) has been accepted to IEEE Transactions on Intelligent Vehicles(IF=8.2).** 🎉
+- **Mar 2025：** **[Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-Making Framework.](https://ieeexplore.ieee.org/document/10933798) has been accepted to IEEE Transactions on Vehicular Technology.** 🎉
+- **May 2024：** **[Our work: Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach.](https://ieeexplore.ieee.org/document/10529605) has been accepted to IEEE Transactions on Intelligent Vehicles.** 🎉
 - Jan 2024：Our work has been accepted to 103th TRB Annual Meeting 2024 as a poster paper. See you in USA!
 - Dec 2023：[Our work](https://ieeexplore.ieee.org/document/10397236) has been accepted to 2023 7th CAA International Conference on Vehicular Control and Intelligence (CVCI) as oral presentation paper. See you in Changsha China!
 - Feb 2023：[Our work: Extraction and Application of Key Utility Term for Social Driving Interaction.](https://www.qichegongcheng.com/CN/10.19562/j.chinasae.qcgc.2024.02.005) has been accepted to Automotive Engineering.
