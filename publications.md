@@ -7,6 +7,13 @@ title: Publications
 ## Journal
 
 <div>
+<img src="/images/Actor-Reasoner.png" style="width: 800px; height: 300px;">
+</div>
+
+- **[Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-Making Framework](https://ieeexplore.ieee.org/document/11264499)**.
+**Shiyu Fang**,  Jiaqi Liu; Chengkai Xu; Chen Lv; Peng Hang*; Jian Sun. IEEE Transactions on Intelligent Transportation Systems, 2025.
+----
+<div>
   <img src="/images/CoDrivingLLM.png" style="width: 800px; height: 300px;">
 </div>
 
@@ -29,6 +36,15 @@ Xiaocong Zhao,**Shiyu Fang**, Zirui Li, Jian Sun. Automotive Engineering, 2024, 
 ---
 
 ## Conference 
+- [Recognize Then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic](https://ieeexplore.ieee.org/document/11097650). 
+**Shiyu Fang**; Donghao Zhou; Yiming Cui; ChengKai Xu; Peng Hang; Jian Sun. 2025 IEEE Intelligent Vehicles Symposium (IV), Cluj-Napoca, Romania, 2025.
+
+- [A Vehicle-Infrastructure Multi-Layer Cooperative Decision-Making Framework](https://ieeexplore.ieee.org/document/11097727). 
+Yiming Cui; **Shiyu Fang**; Peng Hang; Jian Sun. 2025 IEEE Intelligent Vehicles Symposium (IV), Cluj-Napoca, Romania, 2025.
+
+- [Towards Autonomous Vehicle Decision-Making in Heterogeneous Traffic: A Virtual Game Approach with Interaction Influence Weight Quantification](https://ieeexplore.ieee.org/document/11097727). 
+Tan Liu; **Shiyu Fang**; Xuekai Liu; Qian Chen; Peng Hang. 2025 IEEE Intelligent Vehicles Symposium (IV), Cluj-Napoca, Romania, 2025.
+
 - [A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10830105). 
 Jiaqi Liu, **Shiyu Fang**, Xuekai Liu, Lulu Guo, Peng Hang*, and Jian Sun. 8th CAA International Conference on Vehicular Control and Intelligence (CVCI 2024), Chongqing, China, 2024.
 
@@ -44,10 +60,8 @@ Xiaocong Zhao, Meng Wang, **Shiyu Fang**, Jian Sun. 2023 IEEE Intelligent Vehicl
 
 ## Manuscript
 
-- [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://www.researchgate.net/publication/389496960_Interact_Instruct_to_Improve_A_LLM-Driven_Parallel_Actor-Reasoner_Framework_for_Enhancing_Autonomous_Vehicle_Interactions). 
-**Shiyu Fang**, Jiaqi Liu, Chengkai Xu, Chen Lv, Peng Hang, Jian Sun.
-- [Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic](https://www.researchgate.net/publication/388634172_Recognize_then_Resolve_A_Hybrid_Framework_for_Understanding_Interaction_and_Cooperative_Conflict_Resolution_in_Mixed_Traffic). 
-**Shiyu Fang**, Donghao Zhou, Yiming Cui, Chengkai Xu, Peng Hang, Jian Sun.
+- [CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine](https://www.researchgate.net/publication/395709363_CoReVLA_A_Dual-Stage_End-to-End_Autonomous_Driving_Framework_for_Long-Tail_Scenarios_via_Collect-and-Refine). 
+**Shiyu Fang**, Yiming Cui, Haoyang Liang, Chen Lv, Peng Hang, Jian Sun.
 - [A Potential Game-Based Framework for Cooperative Driving at Mixed Un-Signalized Intersections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501464). 
 **Shiyu Fang**, Donghao Zhou, Peng Hang, Jianqiang Wang, Jian Sun.
   <br>
