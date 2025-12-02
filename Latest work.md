@@ -6,24 +6,14 @@ title: Latest work
 
 ## Latest Work1: 
 
-### Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions
+### CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine
 
 <div>
-<img src="/images/Actor-Reasoner.png" style="width: 800px; height: 300px;">
+<img src="/images/CoReVLA.png" style="width: 800px; height: 300px;">
 </div>
 
 
-## Latest Work2:
-
-### Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic
-
-<div>
-<img src="/images/RtR.png" style="width: 800px; height: 350px;">
-</div>
-
----
-
-## Latest Work3: 
+## Latest Work2: 
 
 ### A Distributed Decision-making Framework Integrates Individual and System Perspective Utility
 
