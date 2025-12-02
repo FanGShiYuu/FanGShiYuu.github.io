@@ -16,7 +16,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2021 - :** Tongji University 
+- **Sep 2021 - :** Tongji University, PHD Candidate
+- **Nov 2025 - :** Nanyang Technological University, Visiting PHD
 - **Sep 2017 - June 2021:** Jilin University 
 
 ---
