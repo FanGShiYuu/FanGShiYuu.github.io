@@ -52,10 +52,10 @@ Our team showed up to the first Jilin University Ultimate Frisbee League with qu
 ## Meme Collector 🐸
 
 <div class="photo-grid">
-  <img src="/images/knee1.gif" alt="knee4">
+  <img src="/images/knee4.gif" alt="knee4">
   <img src="/images/knee2.gif" alt="knee2">
   <img src="/images/knee3.gif" alt="knee3">
-  <img src="/images/knee4.gif" alt="knee1">
+  <img src="/images/knee1.gif" alt="knee1">
 </div>
 
 I am a dedicated, passionate, and arguably over-committed collector of internet memes. While others spend their free time on productive hobbies, I have chosen a higher calling — curating a personal archive of the finest, dumbest, and most inexplicably funny images the internet has to offer. I firmly believe that a well-timed meme is worth a thousand words — and occasionally, a well-timed meme has saved a group chat from total collapse. You're welcome.
