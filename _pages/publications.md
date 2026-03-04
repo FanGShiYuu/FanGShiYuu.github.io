@@ -80,7 +80,7 @@ Autonomous vehicles still face frequent challenges during open-road trials. Conn
   <div class="pub-entry">
     <div class="pub-img"><img src="../images/RtR.png" alt="RtR"></div>
     <div class="pub-info">
-      <p><strong><em>Shiyu Fang</em></strong>, Donghao Zhou, Yiming Cui, ChengKai Xu, Peng Hang, Jian Sun. <strong><em>2025 IEEE Intelligent Vehicles Symposium (IV)</em></strong>, Cluj-Napoca, Romania, 2025.</p>
+      <p><strong><em>Shiyu Fang</em></strong>, Donghao Zhou, Yiming Cui, ChengKai Xu, Peng Hang, Jian Sun. <em>2025 IEEE Intelligent Vehicles Symposium (IV)</em>, Cluj-Napoca, Romania, 2025.</p>
       <p class="pub-tldr"><em>TL;DR: Recognize the interaction evolution trend before cooperatively resolving conflicts.</em></p>
     </div>
   </div>
@@ -117,7 +117,7 @@ Autonomous Vehicles have entered the stage of commercialization, yet their perfo
   <div class="pub-entry">
     <div class="pub-img"><img src="../images/IoT.png" alt="IoT"></div>
     <div class="pub-info">
-      <p>Shiyu Fang, Yiming Cui, <strong><em>Shiyu Fang</em></strong>, Qian Chen, Yafei Wang and Jian Sun <strong><em>IEEE Transactions  INTERNET OF THINGS JOURNAL</em></strong>, 2025.</p>
+      <p>Yiming Cui, <strong><em>Shiyu Fang</em></strong>, Qian Chen, Yafei Wang and Jian Sun <strong><em>IEEE Internet of Things Journal</em></strong>, 2025.</p>
       <p class="pub-tldr"><em>TL;DR: Enable cooperative CAV–HDV interaction via twin-game adaptation, improving mixed-traffic safety and efficiency at unsignalized intersections.</em></p>
     </div>
   </div>
