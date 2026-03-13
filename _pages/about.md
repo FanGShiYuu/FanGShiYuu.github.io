@@ -18,12 +18,12 @@ Currently, I am pursuing a Ph.D. degree in the Department of Traffic Engineering
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
-  <li>📢 Feb. 2026: Our previous work on Cooperative Driving in Mixed-Traffic with Potential Game has been accepted at Engineering! 🎉 Paper will be online soon~  </li>
+  <li>📢 1️⃣ Feb. 2026: Our work named <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6297834">Game in Graph: Distributed Cooperative Decision-Making Framework for Multi-Level Equilibrium in Mixed Traffic.</a> is prepinted on ssrn.  </li>
+  <li>📢 1️⃣ Feb. 2026: Our previous work on Cooperative Driving in Mixed-Traffic with Potential Game has been accepted at Engineering! 🎉 Paper will be online soon~  </li>
   <li>🔥 1️⃣ Nov 2025：<a href="https://ieeexplore.ieee.org/document/11264499">Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions.</a> has been accepted to IEEE Transactions on Intelligent Transportation Systems. 🎉</li>
   <li>2️⃣ Nov 2025：<a href="https://ieeexplore.ieee.org/abstract/document/11227114">A Game-Theoretic Framework of Interaction and Cooperative Driving for CAVs at Mixed Unsignalized Intersections.</a> has been accepted to IEEE Internet of Things Journal. 🎉</li>
   <li>📢 Jun 2025：Three of Our work: <a href="https://ieeexplore.ieee.org/document/11097650">RtR</a>, <a href="https://ieeexplore.ieee.org/document/11097413">VR-IIW</a>, <a href="https://ieeexplore.ieee.org/document/11097727">V2I-LLM</a> have been accepted to 2025 IEEE Intelligent Vehicles Symposium (IV). See you in Cluj-Napoca, Romania!</li>
   <li>🔥 1️⃣ Mar 2025：<a href="https://ieeexplore.ieee.org/document/10933798">Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-Making Framework.</a> has been accepted to IEEE Transactions on Vehicular Technology. 🎉</li>
-  <li>Oct 2024：<a href="https://ieeexplore.ieee.org/document/10830105">Our work</a> has been accepted to 2024 8th CAA International Conference on Vehicular Control and Intelligence (CVCI) as oral presentation paper. See you in Chongqing China!</li>
   <li>🔥 1️⃣ May 2024：<a href="https://ieeexplore.ieee.org/document/10529605">Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach.</a> has been accepted to IEEE Transactions on Intelligent Vehicles. 🎉</li>
   <li>Jan 2024：Our work has been accepted to 103th TRB Annual Meeting 2024 as a poster paper. See you in USA!</li>
   <li>Dec 2023：<a href="https://ieeexplore.ieee.org/document/10397236">Our work</a> has been accepted to 2023 7th CAA International Conference on Vehicular Control and Intelligence (CVCI) as oral presentation paper. See you in Changsha China!</li>
