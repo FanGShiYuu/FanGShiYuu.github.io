@@ -102,3 +102,15 @@ This page shares some of our latest work. Click the publication title to view th
     </div>
   </div>
 </div>
+
+## Intelligent Transportation Systems
+<div class="pub-block">
+  <p class="pub-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6418431">Integrated service and partial-charging scheduling for electric ground-handling vehicles in airports: A two-stage adaptive large neighborhood search approach.</a> is prepinted on ssrn.</a></p>
+  <div class="pub-entry">
+    <div class="pub-img"><img src="../images/ALNS.png" alt="ALNS"></div>
+    <div class="pub-info">
+      <p><strong><em>Shiyu Fang</em></strong>, Yiming Cui, Haoyang Liang, Chen Lv, Peng Hang*, Jian Sun.</p>
+      <p class="pub-abstract"><strong>Abstract:</strong> This paper addresses the integrated scheduling of aircraft services and electric ground handling vehicles (EGHVs) under charging constraints by developing a mixed-integer program (MIP) model and a two-stage adaptive large neighborhood search (ALNS) algorithm. By decomposing the problem into service assignment and partial-charging decision stages, the proposed heuristic efficiently explores the solution space, significantly outperforming Gurobi and benchmark algorithms in experiments based on Shanghai Hongqiao International Airport data. </p>
+    </div>
+  </div>
+</div>
