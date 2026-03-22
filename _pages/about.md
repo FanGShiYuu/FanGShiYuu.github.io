@@ -18,6 +18,7 @@ Currently, I am pursuing a Ph.D. degree in the Department of Traffic Engineering
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
+  <li>📢 ✉️ Mar. 2026: Our work named <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6451841">V2I-LENC: A Vehicle-Infrastructure Language-Enhanced Negotiation and Cooperation Chain for Mixed-Traffic.</a> is prepinted on ssrn.  </li>
   <li>📢 ✉️ Mar. 2026: Our work named <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6418431">Integrated service and partial-charging scheduling for electric ground-handling vehicles in airports: A two-stage adaptive large neighborhood search approach.</a> is prepinted on ssrn.  </li>
   <li>📢 1️⃣ Feb. 2026: Our work named <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6297834">Game in Graph: Distributed Cooperative Decision-Making Framework for Multi-Level Equilibrium in Mixed Traffic.</a> is prepinted on ssrn.  </li>
   <li>📢 1️⃣ Feb. 2026: Our work on Cooperative Driving in Mixed-Traffic with Potential Game has been accepted at Engineering! 🎉 Paper will be online soon~  </li>
@@ -33,7 +34,7 @@ Currently, I am pursuing a Ph.D. degree in the Department of Traffic Engineering
 </ul>
 </div>
 
-<small>1️⃣ First Author &nbsp;|&nbsp; ✉️ Corresponding Author</small>
+<small>1️⃣ As First Author &nbsp;|&nbsp; ✉️ As Corresponding Author</small>
 
 ---
 

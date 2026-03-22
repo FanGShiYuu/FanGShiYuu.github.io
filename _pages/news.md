@@ -105,12 +105,23 @@ This page shares some of our latest work. Click the publication title to view th
 
 ## Intelligent Transportation Systems
 <div class="pub-block">
-  <p class="pub-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6418431">Integrated service and partial-charging scheduling for electric ground-handling vehicles in airports: A two-stage adaptive large neighborhood search approach.</a> is prepinted on ssrn.</a></p>
+  <p class="pub-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6418431">Integrated service and partial-charging scheduling for electric ground-handling vehicles in airports: A two-stage adaptive large neighborhood search approach.</a></p>
   <div class="pub-entry">
     <div class="pub-img"><img src="../images/ALNS.png" alt="ALNS"></div>
     <div class="pub-info">
-      <p><strong><em>Shiyu Fang</em></strong>, Yiming Cui, Haoyang Liang, Chen Lv, Peng Hang*, Jian Sun.</p>
+      <p>Tan Liu, Peng Hang, Yiming Cui, <strong><em>Shiyu Fang*</em></strong>, Guoyang Qin, Jian Sun.</p>
       <p class="pub-abstract"><strong>Abstract:</strong> This paper addresses the integrated scheduling of aircraft services and electric ground handling vehicles (EGHVs) under charging constraints by developing a mixed-integer program (MIP) model and a two-stage adaptive large neighborhood search (ALNS) algorithm. By decomposing the problem into service assignment and partial-charging decision stages, the proposed heuristic efficiently explores the solution space, significantly outperforming Gurobi and benchmark algorithms in experiments based on Shanghai Hongqiao International Airport data. </p>
+    </div>
+  </div>
+</div>
+
+<div class="pub-block">
+  <p class="pub-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6451841">V2I-LENC: A Vehicle-Infrastructure Language-Enhanced Negotiation and Cooperation Chain for Mixed-Traffic.</a></p>
+  <div class="pub-entry">
+    <div class="pub-img"><img src="../images/LENC.png" alt="LENC"></div>
+    <div class="pub-info">
+      <p>Yiming Cui, <strong><em>Shiyu Fang*</em></strong>, Geyuan Zhang, Haotian Shi, Peng Hang, Hao Zhang, Jian Sun.</p>
+      <p class="pub-abstract"><strong>Abstract:</strong> This paper proposes V2I-LENC, a language-enhanced negotiation chain designed to improve autonomous driving in complex conflict zones. By leveraging a fine-tuned VLM for semantic scene understanding and an LLM-based hierarchical negotiation module, the framework balances global coordination with individual vehicle demands. A unique discriminator module ensures logical consistency before a low-level controller translates decisions into actions. Experiments in CARLA demonstrate that V2I-LENC significantly outperforms baselines in safety, efficiency, and demand satisfaction across varying traffic scales. </p>
     </div>
   </div>
 </div>
