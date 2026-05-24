@@ -79,16 +79,6 @@ This page shares some of our latest work. Click the publication title to view th
   </div>
 </div>
 
-<div class="pub-block">
-  <p class="pub-title-nolink">Toward Cooperative Driving in Mixed Traffic: An Adaptive Potential Game-Based Approach with Field Test Verification.</p>
-  <div class="pub-entry">
-    <div class="pub-img"><img src="../images/PG.png" alt="PG"></div>
-    <div class="pub-info">
-      <p><strong><em>Shiyu Fang</em></strong>, Xiaocong Zhao, Xuekai Liu, Peng Hang*, Jianqiang Wang, Yunpeng Wang, Jian Sun*.</p>
-      <p class="pub-abstract"><strong>Abstract:</strong> This paper proposes an adaptive potential game (APG)–based cooperative driving framework. A system utility function is constructed from a general individual utility form to jointly optimize individual and system objectives. The Lloyd Shapley value is adopted to quantify each vehicle’s marginal contribution. Moreover, HDV preference estimation is iteratively refined by comparing observed behaviors with APG-predicted actions, enhancing overall safety and efficiency. </p>
-    </div>
-  </div>
-</div>
 
 ## Single-Vehicle Interactive Decision
 

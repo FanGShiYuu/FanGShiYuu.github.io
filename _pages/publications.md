@@ -64,6 +64,19 @@ My research focuses on multi-vehicle cooperative decision, and single-vehicle in
 ## Multi-Vehicle Cooperative Decision
 Autonomous vehicles still face frequent challenges during open-road trials. Connected vehicle technology offers a promising alternative pathway to enhance autonomous driving decision-making in complex mixed-traffic scenarios. To this end, our research aims to improve the safety and efficiency of autonomous vehicles in high-density traffic through multi-vehicle cooperative decision-making.
 
+
+
+<div class="pub-block">
+  <p class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2095809926002572">Toward Cooperative Driving in Mixed Traffic: An Adaptive Potential Game-Based Approach with Field Test Verification.</a></p>
+  <div class="pub-entry">
+    <div class="pub-img"><img src="../images/PG.png" alt="PG"></div>
+    <div class="pub-info">
+      <p><strong><em>Shiyu Fang</em></strong>, Xiaocong Zhao, Xuekai Liu, Peng Hang*, Jianqiang Wang, Yunpeng Wang, Jian Sun*. <strong><em>Engineering</em></strong>, 2026.</p>
+      <p class="pub-tldr"><em>TL;DR: We decompose mixed-traffic conflicts into a graph, partition it into high-conflict subgroups, and solve a distributed potential game that provably achieves both individual Nash equilibrium and global system optimality at once.</em></p>
+    </div>
+  </div>
+</div>
+
 <div class="pub-block">
   <p class="pub-title"><a href="https://ieeexplore.ieee.org/document/10933798">Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-Making Framework.</a></p>
   <div class="pub-entry">
